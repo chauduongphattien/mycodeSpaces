@@ -1,0 +1,11 @@
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\bin\Debug\bitmap.exe.config
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\bin\Debug\bitmap.exe
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\bin\Debug\bitmap.pdb
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.csproj.AssemblyReference.cache
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.csproj.SuggestedBindingRedirects.cache
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.Form1.resources
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.Properties.Resources.resources
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.csproj.GenerateResource.cache
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.csproj.CoreCompileInputs.cache
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.exe
+C:\Users\21110\Desktop\graphics\bitmap\bitmap\obj\Debug\bitmap.pdb
